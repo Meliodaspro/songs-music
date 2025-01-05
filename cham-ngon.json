@@ -61,5 +61,33 @@
     "msg": "Luôn giữ tinh thần lạc quan và tích cực trong công việc.",
     "length": 56,
     "from": "api.meliodas.info.vn"
-  }
+  },
+  {
+  "code": 200,
+  "uid": 32,
+  "msg": "Đừng ngại hỏi, đừng ngại phạm sai lầm.",
+  "length": 38,
+  "from": "api.thanhdieu.com"
+},
+  {
+  "code": 200,
+  "uid": 16,
+  "msg": "Niềm tin lớn nhất là niềm tin vào bản thân.",
+  "length": 43,
+  "from": "api.thanhdieu.com"
+},
+  {
+  "code": 200,
+  "uid": 21,
+  "msg": "Không có niềm tin vào bản thân, bạn sẽ chẳng tin được ai.",
+  "length": 57,
+  "from": "api.thanhdieu.com"
+},
+  {
+  "code": 200,
+  "uid": 26,
+  "msg": "Kiên trì theo đuổi mục tiêu là chìa khóa thành công.",
+  "length": 52,
+  "from": "api.thanhdieu.com"
+}
 ]
